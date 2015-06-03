@@ -1,0 +1,6 @@
+C:\Work\Claim\AnotherCarDealership\bin\Debug\AnotherCarDealership.exe.config
+C:\Work\Claim\AnotherCarDealership\bin\Debug\AnotherCarDealership.exe
+C:\Work\Claim\AnotherCarDealership\bin\Debug\AnotherCarDealership.pdb
+C:\Work\Claim\AnotherCarDealership\obj\Debug\AnotherCarDealership.csprojResolveAssemblyReference.cache
+C:\Work\Claim\AnotherCarDealership\obj\Debug\AnotherCarDealership.exe
+C:\Work\Claim\AnotherCarDealership\obj\Debug\AnotherCarDealership.pdb
